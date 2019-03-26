@@ -1,0 +1,7 @@
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\bin\Debug\class dan properties.exe.config
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\bin\Debug\class dan properties.exe
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\bin\Debug\class dan properties.pdb
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\obj\Debug\class dan properties.csprojAssemblyReference.cache
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\obj\Debug\class dan properties.csproj.CoreCompileInputs.cache
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\obj\Debug\class dan properties.exe
+D:\18.11.2301\Pertemuan 3\OOP\Class & Object\Class_2\class dan properties\class dan properties\obj\Debug\class dan properties.pdb
